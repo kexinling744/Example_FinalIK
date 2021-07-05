@@ -1,0 +1,179 @@
+Using pre-set license
+Built from '2020.3/staging' branch; Version is '2020.3.0f1 (c7b5465681fb) revision 13088070'; Using compiler version '192528614'; Build Type 'Release'
+OS: 'Windows 10 Home China; OS build 19042.1052; Version 2009; 64bit' Language: 'zh' Physical Memory: 8037 MB
+BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 0
+
+ COMMAND LINE ARGUMENTS:
+G:\unity inst\2020.3.0f1\Editor\Unity.exe
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker0
+-projectPath
+G:/unityTEST/Test0528
+-logFile
+Logs/AssetImportWorker0.log
+-srvPort
+51462
+Successfully changed project path to: G:/unityTEST/Test0528
+G:/unityTEST/Test0528
+Using Asset Import Pipeline V2.
+Assets/Models/Dummylongfingertest.c4d: Unity no longer supports importing Cinema 4D files directly, but we're working with Maxon to make the experience better. To import Cinema 4D files, install Maxon's external importer. You can find more information on the Unity Forum: https://on.unity.com/c4d.
+
+Please note that FBX files exported from Cinema4D are still supported.
+
+Refreshing native plugins compatible for Editor in 94.31 ms, found 16 plugins.
+Preloading 2 native plugins for Editor in 2.42 ms.
+Initialize engine version: 2020.3.0f1 (c7b5465681fb)
+[Subsystems] Discovering subsystems at path G:/unity inst/2020.3.0f1/Editor/Data/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path G:/unityTEST/Test0528/Assets
+GfxDevice: creating device client; threaded=0
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: NVIDIA GeForce MX250 (ID=0x1d52)
+    Vendor:   
+    VRAM:     1983 MB
+    Driver:   25.21.14.1735
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Initialize mono
+Mono path[0] = 'G:/unity inst/2020.3.0f1/Editor/Data/Managed'
+Mono path[1] = 'G:/unity inst/2020.3.0f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit'
+Mono config path = 'G:/unity inst/2020.3.0f1/Editor/Data/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56808
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: G:/unity inst/2020.3.0f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.001363 seconds.
+Native extension for WindowsStandalone target not found
+Assets/Models/Dummylongfingertest.c4d: Unity no longer supports importing Cinema 4D files directly, but we're working with Maxon to make the experience better. To import Cinema 4D files, install Maxon's external importer. You can find more information on the Unity Forum: https://on.unity.com/c4d.
+
+Please note that FBX files exported from Cinema4D are still supported.
+
+Refreshing native plugins compatible for Editor in 84.89 ms, found 16 plugins.
+Preloading 2 native plugins for Editor in 0.11 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.364 seconds
+Platform modules already initialized, skipping
+Registering precompiled user dll's ...
+Registered in 0.008760 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Assets/Models/Dummylongfingertest.c4d: Unity no longer supports importing Cinema 4D files directly, but we're working with Maxon to make the experience better. To import Cinema 4D files, install Maxon's external importer. You can find more information on the Unity Forum: https://on.unity.com/c4d.
+
+Please note that FBX files exported from Cinema4D are still supported.
+
+Refreshing native plugins compatible for Editor in 74.43 ms, found 16 plugins.
+Preloading 2 native plugins for Editor in 0.09 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+[XR] OculusXRPlugin: registering subsystems
+[XR] Unable to register display lifecyle provider: [1]
+[XR] Oculus Input lifecycle provider registered.
+[XR] Unable to register input lifecyle provider: [1]
+NullReferenceException: Object reference not set to an instance of an object
+  at Unity.XR.Oculus.OculusLoader.AssetPathToAbsolutePath (System.String assetPath) [0x00048] in G:\unityTEST\Test0528\Library\PackageCache\com.unity.xr.oculus@1.8.1\Runtime\OculusLoader.cs:243 
+  at Unity.XR.Oculus.OculusLoader.EditorLoadOVRPlugin () [0x0007b] in G:\unityTEST\Test0528\Library\PackageCache\com.unity.xr.oculus@1.8.1\Runtime\OculusLoader.cs:228 
+
+(Filename: Library/PackageCache/com.unity.xr.oculus@1.8.1/Runtime/OculusLoader.cs Line: 243)
+
+Mono: successfully reloaded assembly
+- Completed reload, in  1.529 seconds
+Platform modules already initialized, skipping
+Assets/Models/Dummylongfingertest.c4d: Unity no longer supports importing Cinema 4D files directly, but we're working with Maxon to make the experience better. To import Cinema 4D files, install Maxon's external importer. You can find more information on the Unity Forum: https://on.unity.com/c4d.
+
+Please note that FBX files exported from Cinema4D are still supported.
+
+========================================================================
+Worker process is ready to serve import requests
+Assets/Models/Dummylongfingertest.c4d: Unity no longer supports importing Cinema 4D files directly, but we're working with Maxon to make the experience better. To import Cinema 4D files, install Maxon's external importer. You can find more information on the Unity Forum: https://on.unity.com/c4d.
+
+Please note that FBX files exported from Cinema4D are still supported.
+
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.07 seconds
+Refreshing native plugins compatible for Editor in 1.02 ms, found 16 plugins.
+Preloading 2 native plugins for Editor in 0.08 ms.
+Unloading 4108 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 174.1 MB.
+System memory in use after: 173.7 MB.
+
+Unloading 34 unused Assets to reduce memory usage. Loaded Objects now: 4552.
+Total: 8.255300 ms (FindLiveObjects: 1.062800 ms CreateObjectMapping: 0.626800 ms MarkObjects: 5.518400 ms  DeleteObjects: 1.044900 ms)
+
+========================================================================
+Received Import Request.
+  path: Assets/Scenes/VFX_test.unity
+  artifactKey: Guid(3af6a274df2219c4b843ac5c2e6a4439) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/VFX_test.unity using Guid(3af6a274df2219c4b843ac5c2e6a4439) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9e89198609e2b71f538358200476fc92') in 0.020782 seconds
+  Import took 0.035729 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 166.635928 seconds.
+  path: Assets/Nebula Pack/Skybox Green Nebula
+  artifactKey: Guid(92524fa848a3f6543a7b859fc3c1252a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Nebula Pack/Skybox Green Nebula using Guid(92524fa848a3f6543a7b859fc3c1252a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '23c8c56b9ce2f58c90e68ed84e44139e') in 0.003122 seconds
+  Import took 0.012564 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.991562 seconds.
+  path: Assets/Nebula Pack/Skybox Green Nebula/Textures
+  artifactKey: Guid(ab7c893354cfbb9468a1ce63f5350886) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Nebula Pack/Skybox Green Nebula/Textures using Guid(ab7c893354cfbb9468a1ce63f5350886) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd8564e2387a378830d2d2ebaf41c5e76') in 0.002473 seconds
+  Import took 0.019891 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 16.331072 seconds.
+  path: Assets/Plugins/Lumin
+  artifactKey: Guid(858d10ca05d06d044bce663c71f95bad) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Plugins/Lumin using Guid(858d10ca05d06d044bce663c71f95bad) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '382f4c085fa3d531495ba1f95a68c30b') in 0.002647 seconds
+  Import took 0.018384 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.051199 seconds.
+  path: Assets/Plugins/Lumin/MagicLeapManifestSettings.asset
+  artifactKey: Guid(ff8b9835e577a604dbc83e47f59d074f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Plugins/Lumin/MagicLeapManifestSettings.asset using Guid(ff8b9835e577a604dbc83e47f59d074f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f84d0f0ac508b4339e2f458394f84db0') in 0.036617 seconds
+  Import took 0.044340 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 2.910610 seconds.
+  path: Assets/Plugins/RootMotion/Editor
+  artifactKey: Guid(5059b61e5885d6945ad3de1923d051de) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Plugins/RootMotion/Editor using Guid(5059b61e5885d6945ad3de1923d051de) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '36481a92d77c30aa3db950dae3212053') in 0.002611 seconds
+  Import took 0.020861 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.123845 seconds.
+  path: Assets/Plugins/RootMotion/Editor/FinalIK
+  artifactKey: Guid(403e73ed4eb874619a26a7b37fbb9c35) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Plugins/RootMotion/Editor/FinalIK using Guid(403e73ed4eb874619a26a7b37fbb9c35) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'dcbb45a55e29985c4cd392e803641995') in 0.011890 seconds
+  Import took 0.020206 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 21.147706 seconds.
+  path: Assets/Textures/Imperfections_scbueaup_4K_surface_ms
+  artifactKey: Guid(47d19e2b3fae2d24389d9e39c1859d59) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Textures/Imperfections_scbueaup_4K_surface_ms using Guid(47d19e2b3fae2d24389d9e39c1859d59) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '347b231a1cee9367bbef9cfb04785b3c') in 0.002707 seconds
+  Import took 0.011071 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 3.436932 seconds.
+  path: Assets/VFX/test1.vfx
+  artifactKey: Guid(24fde6632bb317a43b5cf0a9dbc074d7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/VFX/test1.vfx using Guid(24fde6632bb317a43b5cf0a9dbc074d7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cb02e03b2b6caf4ae73fb5ac699dfe54') in 0.007464 seconds
+  Import took 0.016628 seconds .
+
+AssetImportWorkerClient::OnTransportError - code=2 error=End of file
